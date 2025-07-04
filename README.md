@@ -69,4 +69,4 @@ Based on the insights uncovered:
 - **Excel** for quick data cleaning, spot-checking, dashboards and storytelling
 
 🔗 Let’s connect on [LinkedIn](www.linkedin.com/in/king-momah-1a8804279)  
-📫 Contact: kingmomah2006@email.com
+📫 Contact: kingmomah2006@gmail.com
