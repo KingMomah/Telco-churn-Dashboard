@@ -1,10 +1,10 @@
-# 📉 Telco Churn Analysis: Digging Deeper with SQL + Power BI
+# 📉 Telco Churn Analysis: Digging Deeper with SQL + Excel
 
 ## 👋 Overview
 
 This project explores a Telco dataset to understand customer churn — **who's leaving, why they're leaving, and what we can do about it**.
 
-The goal? Use **SQL for deep data exploration** and **Power BI** for intuitive, insight-rich dashboards.
+The goal? Use **SQL for deep data exploration** and **Excel** for intuitive, insight-rich dashboards.
 
 ## 🧠 What I Found
 
